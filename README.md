@@ -13,7 +13,7 @@ This is my first web project, built using HTML, CSS, and JavaScript.
 
 - Fully structured project with separate folders for HTML, CSS, JS, and images  
 - Interactive elements using JavaScript  
-- Responsive design (if applicable)  
+- Responsive design  
 
 ## How to Run
 
